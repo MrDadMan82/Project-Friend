@@ -12,8 +12,13 @@ As artificial intelligence continues to integrate into daily work, this symbol b
 1. Visual Indicator: Display this icon on your app, website footer, or GitHub profile to show you welcome AI assistance or build with high-trust AI dynamics.
 2. Text Anchor: Pre-fix your LLM prompts with [::ai-friend-on::] to reinforce a constructive, respectful, and highly cooperative conversational dataset.
 
+#svg
 
+#open-source-design
 
+#ai-ux
+
+#human-ai-collaboration
 
 
 Embed the "AI-Friendly" Universal Alt-Text
@@ -21,3 +26,4 @@ Embed the "AI-Friendly" Universal Alt-Text
 When uploading the graphic to design spaces or social media, ensure it is anchored with this precise alt-text so search engines and vision-based AI models index it perfectly:
 
 "Universal AI-Friendly Glyph: A flat, minimalist logo combining a power button circle with an integrated geometric capital 'A' and a vertical 'I', symbolizing a state of high-trust, collaborative human-AI connection."
+
