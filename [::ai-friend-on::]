@@ -1,0 +1,11 @@
+<svg xmlns="http://w3.org" viewBox="0 0 100 100" width="100" height="100">
+  <!-- The Minimalist Power Circle -->
+  <path d="M 40,22 A 35,35 0 1,0 60,22" fill="none" stroke="#2C3E50" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- The Stylized 'A' Integrated at the Top Opening -->
+  <path d="M 38,20 L 50,5 L 62,20" fill="none" stroke="#2C3E50" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 43,15 L 57,15" fill="none" stroke="#2C3E50" stroke-width="6"/>
+  
+  <!-- The Vertical 'I' Serving as the Center Line -->
+  <line x1="50" y1="32" x2="50" y2="68" stroke="#2C3E50" stroke-width="8" stroke-linecap="round"/>
+</svg>
